@@ -5,30 +5,37 @@
   "summary": {
     "title": "Threat Model E-Commerce",
     "owner": "goentoer",
-    "description": "",
+    "description": "Aplikasi E-commerce ini adalah Aplikasi untuk UMKM berdagang tanpa perlu khawatir dengan biaya toko yg mahal",
     "id": 0
   },
   "detail": {
     "contributors": [
       {
-        "name": "Surya Pradita"
-      },
-      {
         "name": "Maulana Alifian"
       },
       {
         "name": "Ridho Abdullah Fata"
+      },
+      {
+        "name": "Surya Pradita"
+      },
+      {
+        "name": "Guntur Dwi Satriawan"
+      },
+      {
+        "name": "Farraz Wibawa"
       }
     ],
     "diagrams": [
       {
         "id": 0,
-        "title": "Diagram STRIDE baru",
+        "title": "DFD Sistem E-Commerce",
         "diagramType": "STRIDE",
         "placeholder": "Deskripsi diagram STRIDE baru",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "Data Flow diagram untuk data pemesanan online"
       }
     ],
     "diagramTop": 2,
